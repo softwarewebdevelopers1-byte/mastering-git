@@ -1,2 +1,2 @@
 console.log("first checkout");
-console.log("Secong checkout");
+console.log("Second checkout");
