@@ -1,3 +1,3 @@
-let user = "Sir Carloz";
+let user = "Sir Carloz Maina";
 let new_task = "Creating a sub-branch for different parts of the system";
 let newtask2 = "|creating a second sub-branch part of the main system *modified 4*"
